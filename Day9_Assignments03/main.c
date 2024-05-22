@@ -4,7 +4,7 @@
 #include "rectnagle.h"
 
 int main() {
-    float circleArea = calculateCircleArea(5);
+    float circleArea = calculatCircleArea(5);
     printf("Area of circle: %.2f\n", circleArea);
 
     float squareArea = calculateSquareArea(4);

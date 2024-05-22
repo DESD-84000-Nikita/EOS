@@ -1,6 +1,7 @@
+
 #include"circle.h"
 
-double circle_area(double r)
+float calculatCircleArea(float radius)
 {
- return 3.142 * r * r;
+ return 3.142 * radius * radius;
 }
